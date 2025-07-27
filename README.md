@@ -1,5 +1,8 @@
 # 🧠 Truth Lens: Real-Time Fake News Detection using NLP & Streamlit
 
+![DataSet download](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv)
+
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)
 ![License](https://img.shields.io/badge/License-MIT-green)
