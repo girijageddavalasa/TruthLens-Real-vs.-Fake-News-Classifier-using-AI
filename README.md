@@ -22,10 +22,9 @@
 
 ## 📸 Demo
 
-![Demo Screenshot](assets/demo-screenshot.png)
+![Demo Screenshot1](assets/demo-screenshot.png)
 
-> **Live Demo:** _Coming soon_  
-> Or run it locally using Streamlit (see below ⬇️)
+![Demo Screenshot2](assets/demo-screenshot1.png)
 
 ---
 
